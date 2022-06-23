@@ -2,7 +2,7 @@
 You can click the Preview link to take a look at your changes.
 --->
 
-<h2 align="center"><img alt="Vagabond" src="https://i.imgur.com/6ioP5mT.jpg?1" /> </h2>
+<h4 align="center"><img alt="Vagabond" src="https://i.imgur.com/6ioP5mT.jpg?1" /> </h4>
 
 ### About Me 🤔
 
